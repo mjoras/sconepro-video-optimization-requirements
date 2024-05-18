@@ -3,7 +3,7 @@ title: "SCONEPRO Video Optimization Requirements"
 abbrev: "SCONEPRO Video Optimization Requirements"
 category: info
 
-docname: draft-joras-sconepro-video-optimization-requirements-latest
+docname: draft-joras-sconepro-video-opt-requirements-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date: 2024-05-17
