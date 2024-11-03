@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2024-10-31T00:34:25.248742+00:00",
+  "timestamp": "2024-11-03T00:37:17.803057+00:00",
   "repo": "mjoras/sconepro-video-optimization-requirements",
   "labels": [
     {
@@ -50,5 +50,34 @@
     }
   ],
   "issues": [],
-  "pulls": []
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOL9AiN86Ak5WJ",
+      "title": "add -scone- file",
+      "url": "https://github.com/mjoras/sconepro-video-optimization-requirements/pull/1",
+      "state": "MERGED",
+      "author": "wesley-eddy",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "New file with \"-scone-\" instead of \"-sconepro-\", also replaces instances of SCONEPRO and sconepro within the file.",
+      "createdAt": "2024-10-31T22:07:29Z",
+      "updatedAt": "2024-10-31T23:14:23Z",
+      "baseRepository": "mjoras/sconepro-video-optimization-requirements",
+      "baseRefName": "main",
+      "baseRefOid": "88c5658baee784f915b961a15b3d0cfb4dc57728",
+      "headRepository": "wesley-eddy/sconepro-video-optimization-requirements",
+      "headRefName": "main",
+      "headRefOid": "c141817462a67cba27528f77d90d41c34f5086cb",
+      "closedAt": "2024-10-31T23:14:23Z",
+      "mergedAt": "2024-10-31T23:14:23Z",
+      "mergedBy": "mjoras",
+      "mergeCommit": {
+        "oid": "874353a56704b7642aa264b5fe5de80a575fa6e0"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
 }
