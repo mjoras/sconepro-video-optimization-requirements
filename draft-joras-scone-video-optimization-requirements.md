@@ -6,7 +6,7 @@ category: info
 docname: draft-joras-scone-video-optimization-requirements-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
-date: 2024-05-17
+date: 2025-05-12
 consensus: true
 v: 3
 keyword:
